@@ -1,0 +1,33 @@
+.DEV
+{
+    background-color: rgb(14, 14, 68);
+    width: 700px;
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+    color: white;
+    border-radius: 16px;
+}
+
+.DevHead
+{
+    font-size: 30px;
+    padding: 5px;
+}
+
+.DEV button
+{
+    border: none;
+    background-color: green;
+    color: white;
+    transition: 0.2s;
+    border-radius: 25px;
+    font-size: 20px;
+    margin: 3px;
+    padding: 10px;
+}
+
+.DEV button:hover
+{
+    font-size: 25px;
+}

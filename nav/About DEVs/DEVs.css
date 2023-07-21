@@ -1,0 +1,45 @@
+.about
+{
+    background-color: rgb(14, 95, 105);
+    width: 1000px;
+    margin: auto;
+    padding: 1px;
+    border-radius: 16px;
+    font-size: 25px;
+    color: white;
+}
+
+.head
+{
+    font-size: 30px;
+    text-align: center;
+}
+
+.how
+{
+    padding: 10px;
+}
+
+.btn
+{
+    font-size: 20px;
+    border: none;
+    border-radius: 25px;
+    background-color: green;
+    color: white;
+    
+    padding: 10px;
+    margin: 10px;
+    transition: 0.2s;
+    text-align: center;
+}
+
+.btn:hover
+{
+    font-size: 25px;
+}
+
+.wew
+{
+    text-align: center;
+}

@@ -1,0 +1,54 @@
+.cont
+{
+    background-color: rgb(80, 122, 1);
+    border-radius: 16px;
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+    color: white;
+}
+
+.us
+{
+    padding: 10px;
+    text-align: left;
+}
+
+.head
+{
+    font-size: 30px;
+    text-align: center;
+}
+
+.name
+{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-align: center;
+    transition: 0.2s;
+    background-color: black;
+    border-radius: 25px;
+    border: none;
+    padding: 10px;
+}
+
+.name:hover
+{
+    font-size: 33px;
+}
+
+.U
+{
+    text-align: center;
+}
+
+.nam
+{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-align: center;
+    transition: 0.2s;
+    color: black;
+}
+
